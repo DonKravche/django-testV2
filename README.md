@@ -13,4 +13,5 @@ also improved code:
 ![image](https://github.com/DonKravche/django-testV2/assets/138400870/bdf299b4-d609-4207-97da-2c7eeb5be56e)
 
 3. you also can filter items by id like that in url:
+   
 ![image](https://github.com/DonKravche/django-testV2/assets/138400870/75136a24-a4a2-4c87-98d8-5cafc48b275c)
